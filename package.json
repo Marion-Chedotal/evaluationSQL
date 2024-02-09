@@ -1,0 +1,14 @@
+{
+  "name": "evaluation_2_mcl",
+  "version": "1.0.0",
+  "description": "[[TOC]]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}
